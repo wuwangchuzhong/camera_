@@ -1,0 +1,16 @@
+1. 仿微信的库 
+
+仿微信拍照Android控件（轻触拍照，长按摄像）
+
+
+https://github.com/CJT2325/CameraView
+
+2.可以实现从图库选择或者拍照设置头像（图片选择器）
+
+
+https://github.com/newevery/LogoChangeTest
+
+3. 对图片进行任意裁剪
+
+
+https://github.com/edmodo/cropper
